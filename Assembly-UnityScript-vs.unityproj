@@ -5,11 +5,11 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{D3FD4241-0441-2C20-4802-7F28B432A736}</ProjectGuid>
+	<ProjectGuid>{5B2CE1F4-1511-CE64-ED54-B97289D755FD}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
-	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<AssemblyName>Assembly-UnityScript</AssemblyName>
 	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
 	<FileAlignment>512</FileAlignment>
 	<BaseDirectory>Assets</BaseDirectory>
@@ -46,8 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\LineTest.cs" />
-     <Compile Include="Assets\Script\lineObject.cs" />
+     <Compile Include="Assets\Script\lineController.js" />
+     <Compile Include="Assets\Script\lineObject.js" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity4.6/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
  </Reference>
