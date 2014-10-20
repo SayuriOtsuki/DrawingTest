@@ -42,7 +42,7 @@
 -define:UNITY_EDITOR
 -define:UNITY_EDITOR_OSX
 'Assets/Script/lineController.cs'
-'Assets/Script/lineObjectA.cs'
 'Assets/Script/lineObjectB.cs'
+'Assets/Script/lineRendererTest.cs'
 -r:'/Applications/Unity4.6/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity4.6/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'
