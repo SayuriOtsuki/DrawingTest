@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Script\lineController.cs" />
      <Compile Include="Assets\Script\lineObject.cs" />
+     <Compile Include="Assets\Script\lineObjectA.cs" />
      <Compile Include="Assets\Script\lineObjectB.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity4.6/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
