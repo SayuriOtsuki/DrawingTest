@@ -2,11 +2,11 @@
 using System.Collections;
 
 public class lineController : MonoBehaviour {
-
 	public GameObject lineObject;
 
+	// Use this for initialization
 	void Start () {
-
+	
 	}
 	
 	// Update is called once per frame

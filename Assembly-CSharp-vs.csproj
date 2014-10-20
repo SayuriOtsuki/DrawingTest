@@ -47,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\lineController.cs" />
-     <Compile Include="Assets\Script\lineObject.cs" />
      <Compile Include="Assets\Script\lineObjectA.cs" />
      <Compile Include="Assets\Script\lineObjectB.cs" />
  <Reference Include="UnityEngine.UI">
