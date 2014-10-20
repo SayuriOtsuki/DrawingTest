@@ -46,9 +46,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\lineController.cs" />
-     <Compile Include="Assets\Script\lineObjectB.cs" />
-     <Compile Include="Assets\Script\lineRendererTest.cs" />
+     <Compile Include="Assets\Script\DrawTest\lineController.cs" />
+     <Compile Include="Assets\Script\DrawTest\lineObjectB.cs" />
+     <Compile Include="Assets\Script\DrawTest\lineRendererTest.cs" />
+     <Compile Include="Assets\Script\LineWithObject\FixedLineRenderer.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity4.6/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
  </Reference>
