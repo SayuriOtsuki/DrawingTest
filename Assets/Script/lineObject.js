@@ -3,7 +3,7 @@
 private var deltaTime : float = 0.0;
 private var touchInterval : float = 0.05;
 private var touchEnable = true;
-public var lineObject: GameObject;
+public var lineObject : GameObject;
 private var lineRenderer: LineRenderer;
 private var lineIndex: int = 1;
 private var controll = true;
