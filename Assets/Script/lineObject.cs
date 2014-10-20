@@ -4,7 +4,7 @@ using System.Collections;
 public class lineObject : MonoBehaviour {
 
 	float deltaTime = 0.0f;
-	float touchInterval = 0.05f;
+	public float touchInterval = 0.001f;
 	bool touchEnable = true;
 	LineRenderer lineRenderer;
 	int lineIndex = 1;
