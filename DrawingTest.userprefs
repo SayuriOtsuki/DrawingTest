@@ -1,11 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/lineObject.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/lineObjectB.cs">
     <Files>
-      <File FileName="Assets/Script/LineTest.cs" Line="22" Column="1" />
-      <File FileName="Assets/Script/lineController.js" Line="3" Column="22" />
-      <File FileName="Assets/Script/lineObject.js" Line="39" Column="2" />
-      <File FileName="Assets/Script/lineObject.cs" Line="41" Column="31" />
+      <File FileName="Assets/Script/lineObjectB.cs" Line="4" Column="1" />
+      <File FileName="Assets/Script/lineController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/lineObject.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -46,8 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\lineController.js" />
-     <Compile Include="Assets\Script\lineObject.js" />
+     <Compile Include="Assets\Script\JSSamples\lineControllerJS.js" />
+     <Compile Include="Assets\Script\JSSamples\lineObjectJS.js" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity4.6/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
  </Reference>
